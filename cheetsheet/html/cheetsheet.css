@@ -1,0 +1,30 @@
+table,th,td{
+    border: 1px solid black;
+}
+table.table-1{
+margin-left: auto ; 
+margin-right:auto ;
+width: 50%;
+height: 50px;
+
+}
+
+div.table-tag {
+border: 1px solid black;
+margin-top: 30px;
+margin-bottom: 100px;
+margin-right: 150px;
+margin-left: px;
+background-color: lightblue;
+}
+
+h1,h2.table-tag{
+text-align: center;
+margin: 0px auto;
+display; block;
+}
+
+body{
+background-color: darkkhaki;
+}
+
